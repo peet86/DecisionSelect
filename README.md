@@ -1,4 +1,5 @@
-# DecisionSelect: jQuery Plugin to display an HTML question-answer tree as a flat decision select list
+# DecisionSelect jQuery Plugin
+Display an HTML question-answer tree as a flat decision select list
 
 ### Demo
 http://codepen.io/peet86/pen/XJePmG (CodePen)
