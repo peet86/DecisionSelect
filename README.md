@@ -4,7 +4,7 @@ Display an HTML question-answer tree as a flat decision select list
 ### Demo
 http://codepen.io/peet86/pen/XJePmG (CodePen)
 
-###Quick start: 
+### Quick start: 
 Incude the latest jQuery library and the jquery.decisionselect.min.js script in to your HTML `<header>` or before the `</body>` tag:
 ```html
 <script src="jquery.decisionselect.min.js"></script>
