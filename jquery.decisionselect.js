@@ -108,7 +108,7 @@
         debug: false,
         tree: "null",
         remove: true,
-        please: "Pelase select..",
+        please: "Please select..",
         attrLink:"href",
         container:"li",
         containerSub:"ul",
